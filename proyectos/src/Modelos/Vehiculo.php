@@ -2,7 +2,7 @@
 
 namespace Parqueo\Modelos;
 
-use Parqueo\Interfaz\Cobrable;
+use Parqueo\Contratos\Cobrable;
 
 abstract class Vehiculo implements Cobrable
 {

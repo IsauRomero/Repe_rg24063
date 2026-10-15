@@ -1,6 +1,6 @@
 <?php
 
-namespace Parqueo\Interfaz;
+namespace Parqueo\Contratos;
 
 interface Cobrable
 {
